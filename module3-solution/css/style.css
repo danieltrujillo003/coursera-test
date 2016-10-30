@@ -1,0 +1,61 @@
+body {
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: black;
+	background-color: #C6C6C6;
+}
+
+#title {
+	font-size: 2em;
+	margin-top: 20px;
+}
+
+#chicken, #beef, #sushi {
+	background: #447;
+	border: 20px solid #C6C6C6;
+	padding: 0px;
+}
+
+h3 {
+	font-size: 1.5em;
+	padding-top: 10px;
+	margin: 0px;
+}
+
+p {
+	padding: 10px;
+	margin-bottom: 0px;
+}
+
+#nav-ul {
+	margin-bottom: 0px;
+}
+
+#nav-ul a {
+	background-color: #5D5A98;
+	color: black;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+#nav-ul a:hover {
+	background-color: #447;
+}
+
+#header-nav {
+	background-color: #5D5A98;
+	border-radius: 0px;
+	border-width: 0px;
+}
+
+a#nav-brand {
+	font-size: 2em;
+	color: black;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+
+p > a {
+	color: white;
+}
